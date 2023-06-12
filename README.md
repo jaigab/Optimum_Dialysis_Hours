@@ -10,6 +10,6 @@ If you already have a good understanding of python 3, you can dive straight into
 
 <h2>
   Skills shown
-  <\h2>
+  </h2>
     
- - ##Optimum dialysis hours : 
+* **Optimum_dialysis_hours**: Multiple regression, pandas, numpy, scikitlearn
