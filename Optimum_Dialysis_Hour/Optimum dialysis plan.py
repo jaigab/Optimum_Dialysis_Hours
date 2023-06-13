@@ -10,9 +10,9 @@ def round_up_to_point5(number):
     else: return round(round(number,0),1)
 
 def clean_data(DATA):
-    DATA["Dialysis hours per week"] = DATA["Dialysis Session Length"] * DATA["Days per week"]
-    DATA["Urea Level Difference"] = DATA["Final Urea Level"] - DATA["Starting Urea Level"]
-    DATA["X"] = DATA["Urea Level Difference"] * DATA["Days between tests"] /7
+    DATA["Dialysis hours per week"] = DATA["Dialysis session length in hours"] * DATA["Dialysis days per week"]
+    DATA["Urea Level Difference"] = DATA["Final urea concentration in blood"] - DATA["Starting urea concentration in blood"]
+    DATA["X"] = DATA["Urea Level Difference"] * DATA["Days between blood tests"] /7
     return DATA
 
 filepath = input("Where is the dialysis plan data stored? ")
