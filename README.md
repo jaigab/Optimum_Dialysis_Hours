@@ -12,4 +12,4 @@ If you already have a good understanding of python 3, you can dive straight into
   Skills shown
   </h2>
     
-* **Optimum_dialysis_hours**: Multiple regression, pandas, numpy, scikitlearn
+* **Optimum dialysis hours**: Multiple regression, pandas, numpy, scikitlearn
