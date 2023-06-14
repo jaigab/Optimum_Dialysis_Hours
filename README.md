@@ -13,3 +13,4 @@ If you already have a good understanding of python 3, you can dive straight into
   </h2>
     
 * **Optimum dialysis hours**: Multiple regression, pandas, numpy, scikitlearn
+* **Yelp rating predictor**: Multiple regression, pandas, numpy, scikitlearn
