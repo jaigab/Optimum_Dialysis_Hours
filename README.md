@@ -16,3 +16,4 @@ All projects utilise pandas, numpy, scikitlearn and matplotlib packages in addit
 * **Optimum dialysis hours**: Multiple regression
 * **Yelp rating predictor**: Multiple regression
 * **Masculinity survey**: Kmeans++
+* **Tweet location predictor**: NLP - Multinomial Naive Bayes classification
