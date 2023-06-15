@@ -15,4 +15,4 @@ All projects utilise pandas, numpy, scikitlearn and matplotlib packages in addit
 
 * **Optimum dialysis hours**: Multiple regression
 * **Yelp rating predictor**: Multiple regression
-* **Masculinity survey**: Kmean++
+* **Masculinity survey**: Kmeans++
