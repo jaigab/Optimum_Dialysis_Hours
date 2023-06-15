@@ -4,7 +4,7 @@ Naive Bayes classification used to predict where tweets were written from betwee
 
 <h2> Skills shown </h2>
 
- * NLP - Multinomial Naive Bayes Classification
+ * NLP - Multinomial Naive Bayes classification
  * pandas
  * numpy
  * scikitlearn
