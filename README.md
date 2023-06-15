@@ -17,3 +17,4 @@ All projects utilise pandas, numpy, scikitlearn and matplotlib packages in addit
 * **Yelp rating predictor**: Multiple regression
 * **Masculinity survey**: Kmeans++
 * **Tweet location predictor**: NLP - Multinomial Naive Bayes classification
+* **Viral tweet predictor**: K-Nearest-Neighbour
