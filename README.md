@@ -2,7 +2,7 @@
   Python Projects
   </h1>
 
-This repository contains all of my personal projects written in python. Each folder contains the script and data for a specific project unless told otherwise.
+This repository contains all of my personal projects written in python. Each folder contains the script and data for a specific project unless stated otherwise.
 
 These projects may be "complete" but they are regularly updated to improve efficiency and readibility. 
 
