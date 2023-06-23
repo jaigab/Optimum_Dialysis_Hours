@@ -2,9 +2,4 @@
 
 Recreated 2048 in python
 
-<h2> Skills shown </h2>
-
- * Object Oriented programming
- * pandas
- * numpy
- * scikitlearn
+Currently in progress
